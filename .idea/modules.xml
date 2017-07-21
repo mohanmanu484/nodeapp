@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< 6c0be830ef526c13d3a366616ad6c8f3e712b922
       <module fileurl="file://$PROJECT_DIR$/../nodeapp/.idea/nodeapp.iml" filepath="$PROJECT_DIR$/../nodeapp/.idea/nodeapp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled1.iml" filepath="$PROJECT_DIR$/.idea/untitled1.iml" />
+>>>>>>> initail commit
     </modules>
   </component>
 </project>
