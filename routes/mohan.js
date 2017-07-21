@@ -4,7 +4,7 @@ var router = express.Router();
 /* GET users listing. */
 router.get('/', function(req, res, next) {
    // res.header(200, {"Content-Type": "application/json"});
-    var otherObject = { item1: "item1val", item2: "item2val" };
+    var otherObject = { name: "mohan", email: "mohanmanu484@gmail.com" };
     var json = JSON.stringify({
         anObject: otherObject,
     });
